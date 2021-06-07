@@ -1,6 +1,7 @@
 # OpenSearch and Dashboards 1.0.0-rc1 Release Notes
 
 ## Release Highlights
+This Release Candidate is a version of the project that is feature complete and passing automated testing with the intent to validate expected functionality before moving to a General Availability (GA) launch. The goal with this Release Candidate is to share the current release with the community and solicit a final round of testing and feedback before the GA release. There is a long list of enhancements and fixes that are part of this release including span filtering support in Trace Analytics, tenant support in Notebooks, K-NN field level algorithm selection, support for index management transforms, and support for scheduling and tenants in reporting. Below you'll find the detailed features, enhancements, bug fixes, infrastructure, documentation, maintenance, and refactoring updates.
 
 ## Release Details
 
